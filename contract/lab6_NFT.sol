@@ -37,4 +37,9 @@ contract Lab6_NFT is ERC721Enumerable, Ownable {
             _safeMint(msg.sender, totalSupply + i + 1);
         }
     }
+    //function mintMultiple(uint256[] memory tokenIds) public {
+    //    for (uint256 i = 0; i < tokenIds.length; i++) {
+    //        _safeMint(msg.sender, tokenIds[i]);
+    //    }
+    //}
 }
