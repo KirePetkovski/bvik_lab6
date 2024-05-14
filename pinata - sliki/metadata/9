@@ -1,0 +1,23 @@
+{
+ "name": "letter - W",
+ "image": "https://cyan-definite-vulture-654.mypinata.cloud/ipfs/QmUDzmcmGkLCgJ5V93EecfYekJAXF37Hrmcocidv5ACsww/letterW.png",
+ "description": "letter of the alphabet",
+ "attributes": [
+  {
+    "trait_type": "Latter",
+    "value": "W"
+  },
+  {
+    "trait_type": "Numbered",
+    "value": "23"
+  },
+  {
+    "trait_type": "Color",
+    "value": "green"
+  }, 
+  {
+    "trait_type": "Background-color",
+    "value": "white"
+  }
+ ]
+}
