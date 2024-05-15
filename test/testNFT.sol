@@ -56,6 +56,6 @@ contract testNFT is StdCheats, Test {
     //    MintBasicNft mintBasicNft = new MintBasicNft();
     //    mintBasicNft.mintNftOnContract(address(basicNft));
     //    assert(basicNft.getTokenCounter() == startingTokenCount + 1);
-    /}
+    //}
 
 }
