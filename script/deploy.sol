@@ -3,9 +3,9 @@ pragma solidity 0.8.20;
 
 import {Script} from "forge-std/Script.sol";
 import {lab6_NFT} from "../contract/lab6_NFTs.sol";
-//import {console} from "forge-std/console.sol";
+import {console} from "forge-std/console.sol";
 
-//contract DeployBasicNft is Script {
+contract DeployBasicNft is Script {
 //    uint256 public DEFAULT_ANVIL_PRIVATE_KEY = ;
 //    uint256 public deployerKey;
 
@@ -20,4 +20,4 @@ import {lab6_NFT} from "../contract/lab6_NFTs.sol";
 //        vm.stopBroadcast();
 //        return basicNft;
 //    }
-//}
+}
